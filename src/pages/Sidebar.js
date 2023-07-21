@@ -13,7 +13,7 @@ const Sidebar = () => {
       <SidebarOption Icon={HomeOutlinedIcon} option="Home" />
       <SidebarOption Icon={SearchOutlinedIcon} option="Search" />
       <SidebarOption Icon={LibraryMusicIcon} option="Library" />
-      <SidebarOption Icon={MessageTwoToneIcon} option="Chat Page" />
+      <SidebarOption Icon={MessageTwoToneIcon} option="Chat Page"/>
     </div>
   );
 };
